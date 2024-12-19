@@ -1,0 +1,21 @@
+.list1 {
+    list-style-type: none;
+    list-style-image: url("../images/ul1.jpg");
+    border: 5px ridge purple;
+    border-radius: 20px;
+}
+
+.list2 {
+    list-style-type: upper-alpha;
+    list-style-image: none;
+}
+
+.in {
+    background-color: orange;
+    list-style-position: inside;
+}
+
+.out {
+    background-color: yellow;
+    list-style-position: outside;
+}

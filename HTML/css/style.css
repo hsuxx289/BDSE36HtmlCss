@@ -1,0 +1,50 @@
+h2 {
+    color: blue
+}
+
+.color2 {
+    color: red;
+}
+
+#col1 {
+    color: pink
+}
+
+.color1 {
+    color: green;
+}
+
+.textdec1 {
+    text-decoration: underline;
+}
+
+.textdec2 {
+    text-decoration: line-through
+}
+
+#color1 {
+    color: green;
+}
+
+p {
+    color: brown;
+    text-decoration: overline;
+}
+
+a:link {
+    text-decoration: none;
+    color: aqua
+}
+
+a:visited {
+    color: blue
+}
+
+a:hover {
+    text-decoration: underline;
+    color: green
+}
+
+a:active {
+    color: red
+}

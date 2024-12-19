@@ -1,0 +1,23 @@
+.p1 {
+    font-family: "Itim", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    src: url(../fonts/JustOldFashion.ttf);
+    font-family: JustOldFashion;
+}
+
+.font1 {
+    font-family: JustOldFashion;
+}
+
+@font-face {
+    src: url(../fonts/SCRIPTIN.ttf);
+    font-family: SCRIPTIN;
+}
+
+.font2 {
+    font-family: SCRIPTIN;
+}
